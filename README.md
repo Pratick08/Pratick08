@@ -2,7 +2,6 @@
 
 ### 👨‍💻 About Me
 - 🎓 **Computer Science (Hons) Graduate** from **Triveni Devi Bhalotia College**.
-- 🏆 Academic Performance: **7.95 CGPA**.
 - 🚀 Passionate about Full-Stack Web Development and Problem Solving.
 - 📍 Based in Raniganj, West Bengal.
 
